@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_listening"
+        android:icon="@drawable/ic_mic"
+        android:title="@string/title_listnenig" />
+
+    <item
+        android:id="@+id/navigation_reading"
+        android:icon="@drawable/ic_bookk"
+        android:title="@string/title_reading" />
+
+    <!--<item-->
+        <!--android:id="@+id/navigation_translating"-->
+        <!--android:icon="@drawable/ic_translate"-->
+        <!--android:title="@string/title_translating" />-->
+    <item
+        android:id="@+id/navigation_searching"
+        android:icon="@drawable/ic_analsys"
+        android:title="@string/title_searching" />
+
+   <item
+        android:id="@+id/navigation_analsys"
+        android:icon="@drawable/ic_sebha"
+        android:title="@string/title_sebha" />
+
+</menu>
